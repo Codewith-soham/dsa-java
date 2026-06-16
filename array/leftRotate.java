@@ -12,3 +12,5 @@ public class leftRotate {
         }
 }
 }
+
+//tc O(n) sc O(1)
